@@ -1,0 +1,8 @@
+dist: xenial
+language: java
+sudo: false
+jdk: openjdk21
+install: true
+cache:
+  directories:
+    - $HOME/.2
