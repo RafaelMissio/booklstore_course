@@ -117,6 +117,9 @@
 					src/main/java/**/entity/**,
 					src/main/java/**/repository/**,
 					src/test/java/**/
+					src/main/resources/application-dev.yml
+				    src/main/resources/application-prod.yml
+
 				</sonar.exclusions>
 			</properties>
 		</profile>
