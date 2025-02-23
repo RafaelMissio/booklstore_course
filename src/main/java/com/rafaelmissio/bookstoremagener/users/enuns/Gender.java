@@ -1,4 +1,4 @@
-package com.rafaelmissio.bookstoremagener.entity.enuns;
+package com.rafaelmissio.bookstoremagener.users.enuns;
 
 public enum Gender {
 
