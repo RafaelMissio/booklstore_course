@@ -1,5 +1,7 @@
-package com.rafaelmissio.bookstoremagener.entity;
+package com.rafaelmissio.bookstoremagener.publishers.entity;
 
+import com.rafaelmissio.bookstoremagener.entity.Auditable;
+import com.rafaelmissio.bookstoremagener.books.entity.Book;
 import jakarta.persistence.*;
 import lombok.Data;
 

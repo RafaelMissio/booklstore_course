@@ -1,7 +1,8 @@
 package com.rafaelmissio.bookstoremagener.entity;
 
 
-import com.rafaelmissio.bookstoremagener.entity.enuns.Gender;
+import com.rafaelmissio.bookstoremagener.books.entity.Book;
+import com.rafaelmissio.bookstoremagener.users.enuns.Gender;
 import jakarta.persistence.*;
 import lombok.Data;
 
