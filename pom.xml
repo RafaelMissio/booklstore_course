@@ -77,7 +77,6 @@
 			<version>1.8.0</version>
 		</dependency>
 
-	<dependencies>
 		<dependency>
 			<groupId>org.mapstruct</groupId>
 			<artifactId>mapstruct</artifactId>
@@ -207,6 +206,5 @@
 			</plugins>
 		</build>
 	</profiles>
-
 
 </project>
